@@ -795,6 +795,9 @@
     },
     "BRP": {
       "sound": true
+    },
+    "AND": {
+      "sound": true
     }
   }
 }
